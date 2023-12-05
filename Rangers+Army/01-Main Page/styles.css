@@ -1,0 +1,85 @@
+.navbar {
+    background-color:black;
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+body {
+    margin: 0px;
+}
+
+.navbar a {
+    color: yellow;
+    font-size: x-large;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    color: orange;
+}
+
+.mainPageContrainer {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.headMainPage {
+    margin-top: 75px;
+}
+
+.Media {
+    background-color: black;
+    color: yellow;
+    padding: 40px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.one {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.one a {
+    text-decoration: none;
+    color: yellow;
+    font-size: large;
+}
+
+.one a:hover {
+    color: orange;
+}
+
+.text {
+    background-image: url(https://i0.wp.com/www.breachbangclear.com/wp-content/uploads/2020/05/Ranger-with-LAW.jpeg?fit=2048%2C1368&ssl=1);
+    padding: 10px;
+    color: white;
+    font-size: large;
+    text-align: center;
+}
+
+.joinus {
+    background-color:black;
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.joinus a {
+    color: yellow;
+    font-size: x-large;
+    text-decoration: none;
+}
+
+.joinus a:hover {
+    color: orange;
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: yellow;
+    color: black;
+    font-size: xx-large;
+}

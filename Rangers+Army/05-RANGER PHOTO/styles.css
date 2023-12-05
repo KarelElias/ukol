@@ -1,0 +1,105 @@
+.navbar {
+    background-color:black;
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.navbar a {
+    color: yellow;
+    font-size: x-large;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    color: orange;
+}
+
+.foto1 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.foto1text {
+    margin-top: 70px;
+    text-align: center;
+}
+
+.navbar1 {
+    background-color:black;
+    padding: 25px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.foto2 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.foto2text {
+    margin-top: 70px;
+    text-align: center;
+}
+
+.navbar2 {
+    background-color:black;
+    padding: 25px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.foto3 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.foto3text {
+    margin-top: 70px;
+    text-align: center;
+}
+
+.navbar3 {
+    background-color:black;
+    padding: 25px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.foto4 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.foto4text {
+    margin-top: 70px;
+    text-align: center;
+}
+
+.navbar4 {
+    background-color:black;
+    padding: 25px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.foto5 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.foto5text {
+    margin-top: 70px;
+    text-align: center;
+}
+
+.navbar5 {
+    background-color:black;
+    padding: 25px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+body {
+    margin: 0px;
+}

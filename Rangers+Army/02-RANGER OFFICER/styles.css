@@ -1,0 +1,36 @@
+.mainPageContrainer {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.headMainPage {
+    margin-top: 35px;
+}
+
+.navbar {
+    background-color:black;
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.navbar a {
+    color: yellow;
+    font-size: x-large;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    color: orange;
+}
+
+.navbars {
+    background-color:black;
+    padding: 25px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+body {
+    margin: 0px;
+}

@@ -1,0 +1,78 @@
+.navbar {
+    background-color:black;
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.navbar a {
+    color: yellow;
+    font-size: x-large;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    color: orange;
+}
+
+body {
+    margin: 0px;
+}
+
+.text {
+    display: flex;
+    justify-content: space-evenly;
+    background-image: url(https://live.staticflickr.com/7544/16136640882_4aad46650d_h.jpg);
+}
+
+.headMainPage {
+    margin-top: 75px;
+    text-align: center;
+}
+
+.one {
+    color: white;
+    text-align: center;
+    display: grid;
+    justify-content: center;
+    background-image: url(https://www.army.mil/e2/images/rv7/about/masthead/1600.jpg);
+}
+
+.two {
+    color: orange;
+}
+
+.tree {
+    color: white;
+}
+
+.vision {
+    background-color: black;
+    color: white;
+    text-align: center;
+    display: grid;
+}
+
+.onex {
+    color: white;
+    text-align: center;
+    display: grid;
+    justify-content: center;
+    background-image: url(https://e0.pxfuel.com/wallpapers/693/790/desktop-wallpaper-solid-black-on-dog-solid-dark-grey-thumbnail.jpg);
+}
+
+.oner {
+    color: white;
+    text-align: center;
+    display: grid;
+    justify-content: center;
+    background-image: url(https://www.goarmy.com/content/dam/goarmy/specialty-careers/army-rangers/army-rangers-hero-desktop.webp);
+}
+
+.two a {
+    color: orange;
+    text-align: center;
+    display: grid;
+    justify-content: center;
+    text-decoration: none;
+}
